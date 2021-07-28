@@ -1,4 +1,8 @@
 hcp/
+dask-worker-space/
+*.pkl
+*.csv
+*.npy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
